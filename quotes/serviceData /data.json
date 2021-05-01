@@ -1,0 +1,23 @@
+
+[
+    { "name" : "Muhammad Ali's" ,
+    "image" : "ambition" ,
+    "quotes" : ["Don’t count the days; make the days count","It's hard to be humble when you're as great as I am","Service to others is the rent you pay for your room here on earth","If my mind can conceive it, and my heart can believe it—then I can achieve it","If you even dream of beating me you'd better wake up and apologize."]
+    },
+
+    { "name" : "Michael Jordan" ,
+    "image" : "focus" ,
+    "quotes" : ["You must expect great things of yourself before you can do them.","My attitude is that if you push me towards something that you think is a weakness, then I will turn that perceived weakness into a strength.","To be successful you have to be selfish, or else you never achieve. And once you get to your highest level, then you have to be unselfish. Stay reachable. Stay in touch. Don’t isolate.","I can accept failure, everyone fails at something. But I can’t accept not trying.","If you quit once it becomes a habit. Never quit!"]
+    },
+
+    { "name" : "David Blaine" ,
+    "image" : "reflect2" ,
+    "quotes" : ["You don't get in to magic.Magic get's in to you.","As children we believe that anything is possible, the trick is to never forget it.","Magic is not about having a puzzle to solve. It's about creating a moment of awe and astonishment. And that can be a beautiful thing.","In truth, the only restrictions on our capacity to astonish ourselves and each other are imposed by our own minds.","We are all capable of infinitely more than we believe."]
+    }
+
+
+]
+
+
+
+
